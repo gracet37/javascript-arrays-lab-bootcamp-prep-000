@@ -11,4 +11,4 @@ function destructivelyPrependKitten(name) {
   kittens.unshift(name)
 }
 var kittens = ["Milo", "Otis", "Garfield"]
-function destructivelyRemoveLastKitten()
+function destructivelyRemoveLastKitten() {
